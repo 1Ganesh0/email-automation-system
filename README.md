@@ -38,7 +38,7 @@ export PASSWORD="your_app_password"
 3. Run:
 python main.py
 
-## 📊 Dashboard Visualization
+##  Dashboard Visualization
 
 This dashboard was built using Tableau Public to analyze email data including classification, transaction trends, and fraud detection.
 
